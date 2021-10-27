@@ -1,8 +1,8 @@
 # big-data-algorithm
 
-### Reservoir Sampling
+## Reservoir Sampling
 
-#### Question Description: 有一个无限的整数数据流，如何从中随机地抽取k个整数出来？
+### Question Description: 有一个无限的整数数据流，如何从中随机地抽取k个整数出来？
 
 我们先考虑最简单的情况，k=1，即只需要随机抽取一个样本出来。抽样方法如下：
 
